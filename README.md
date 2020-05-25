@@ -1,7 +1,7 @@
 # Protanimal
 This is a group work repo for XMUM Community Service 2020/04.
 
-- Aim: Build a website for propagation our work.
+- Aim: Build a website for propagation of our work.
 
 - Framework: [Hugo](https://gohugo.io)
 
@@ -43,8 +43,6 @@ make sure the command line is running on the folder that refers to this project.
 hugo server
 ```
 
-
-
 # Configuration
 
 - [Basic Configuration](https://documentation.themefisher.com/docs/meghna-hugo/basic-configuration/)
@@ -61,7 +59,6 @@ Make sure you fork this project to your Github account.
 Fork and PR
 
 *Rmb to pull remote before modifying~*
-
 
 
 # Publish
