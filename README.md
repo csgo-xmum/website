@@ -45,6 +45,15 @@ hugo server
 
 
 
+# Configuration
+
+- [Basic Configuration](https://documentation.themefisher.com/docs/meghna-hugo/basic-configuration/)
+- [Navigation](https://documentation.themefisher.com/docs/meghna-hugo/navigation/)
+- [Homepage](https://documentation.themefisher.com/docs/meghna-hugo/homepage/)
+- [Blog Post](https://documentation.themefisher.com/docs/meghna-hugo/blog-post/)
+- [Author](https://documentation.themefisher.com/docs/meghna-hugo/author/)
+- [i18n Translation](https://documentation.themefisher.com/docs/meghna-hugo/i18n-translation/)
+
 # Collaboration
 
 ~~Make sure you fork this project to your Github account.~~
