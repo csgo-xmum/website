@@ -56,9 +56,11 @@ hugo server
 
 # Collaboration
 
-~~Make sure you fork this project to your Github account.~~
+Make sure you fork this project to your Github account.
 
-Forget this 5555555~
+Fork and PR
+
+*Rmb to pull remote before modifying~*
 
 
 
