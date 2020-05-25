@@ -21,13 +21,15 @@ Choose your operating system
 
 - [On other systems](https://gohugo.io/getting-started/installing)
 
-## Clone
+## Clone (or Download)
 
 Open Terminal(or command line) in your work folder, then trying
 
 ```bash
 git clone https://github.com/mkapakka/Protanimal.git
 ```
+
+Or you can just download this whole project temporarily by clicking the [download](https://github.com/mkapakka/Protanimal/archive/master.zip) button.
 
 
 
