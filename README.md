@@ -1,4 +1,4 @@
-# Community Service
+# Protanimal
 This is a group work repo for XMUM Community Service 2020/04.
 
 - Aim: Build a website for propagation our work.
