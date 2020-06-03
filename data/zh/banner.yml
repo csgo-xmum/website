@@ -1,0 +1,15 @@
+############################### Banner ################################
+banner:
+  enable: true
+  # bg_image_webp: "images/backgrounds/hero-area.webp"
+  # bg_image: "images/backgrounds/hero-area.jpg"
+  bg_image_webp: "images/backgrounds/bad.webp"
+  bg_image: "images/backgrounds/bad.jpg"
+  icon: "" # themify icon pack : https://themify.me/themify-icons
+  title: "Save Wildlife with CS:GO"
+  content: "Save wildlife, We are on the move"
+  whoRwe: "Community Service GO 2020/04 from XMUM"
+  button:
+    enable: true
+    label: "Explore Us"
+    link: "#about"

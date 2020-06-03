@@ -1,0 +1,16 @@
+- id: blogTitle
+  translation: 最新消息
+- id: readMore
+  translation: 阅读更多
+- id: viewAllPost
+  translation: 查看所有文章
+- id: share
+  translation: 分享
+- id: aboutAuthor
+  translation: 关于作者
+- id: authorsPosts
+  translation: 作者发表的文章
+- id: submit
+  translation: 提交
+- id: all
+  translation: 全部
