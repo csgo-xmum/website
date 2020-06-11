@@ -14,3 +14,17 @@
   translation: 提交
 - id: all
   translation: 全部
+- id: about
+  translation: 关于我们
+- id: services
+  translation: 服务
+- id: portfolio
+  translation: 画廊
+- id: team
+  translation: 团队
+- id: pricing
+  translation: 定价
+- id: blog
+  translation: 博客
+- id: contact
+  translation: 联系我们

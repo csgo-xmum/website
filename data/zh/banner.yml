@@ -6,10 +6,10 @@ banner:
   bg_image_webp: "images/backgrounds/bad.webp"
   bg_image: "images/backgrounds/bad.jpg"
   icon: "" # themify icon pack : https://themify.me/themify-icons
-  title: "Save Wildlife with CS:GO"
-  content: "Save wildlife, We are on the move"
+  title: "拯救野生动物"
+  content: "和厦马CS:GO一起行动"
   whoRwe: "Community Service GO 2020/04 from XMUM"
   button:
     enable: true
-    label: "Explore Us"
+    label: "开始探索"
     link: "#about"
