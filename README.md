@@ -1,4 +1,4 @@
-# Protanimal
+# Protanimal (Community Service GO)
 This is a group work repo for XMUM Community Service 2020/04.
 
 - Aim: Build a website for propagation of our work.
@@ -71,3 +71,27 @@ Under construction
 
 The theme has been installed in the folder `/themes/`
 
+
+
+# Structures
+
+i18(multilanguage support)
+
+## Homepage Structure
+
+- About Us
+  - 3 points
+  - Description
+- A video linked description
+- 6 points to elaborate
+- Gallery - Our works? 
+  - can be divided into parts
+  - display as portfolio
+- *Our Team* -> Wildlife display
+- Latest Post
+
+## Social network links
+
+Facebook: https://www.facebook.com/CSgroup-xmum202004-107294727657772
+
+Instagram: https://www.instagram.com/protect___animal/

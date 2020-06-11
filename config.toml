@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "Community Service GO | Protect Wildlife"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -42,39 +42,29 @@ link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "About Us"
+name = "about"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Service"
+name = "services"
 URL = "services"
 weight = 2
 
 [[menu.main]]
-name = "Portfolio"
+name = "portfolio"
 URL = "portfolio"
 weight = 3
 
 [[menu.main]]
-name = "Team"
+name = "team"
 URL = "team"
 weight = 4
 
 [[menu.main]]
-name = "Pricing"
-URL = "pricing"
-weight = 5
-
-[[menu.main]]
-name = "Blog"
+name = "blog"
 URL = "blog"
 weight = 6
-
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 7
 
 #### external / static link ####
 [[menu.static]]
@@ -88,14 +78,14 @@ logo = "images/logo.png"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
-# Google Analitycs
-google_analitycs_id = "" # Your ID
+# Google Analytics
+google_analytics_id = "" # Your ID
 # post share
 post_share = true
 
 # preloader
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo.png"
 
 # google map
@@ -109,46 +99,41 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/CSgroup-xmum202004-107294727657772"
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-instagram"
+link = "https://www.instagram.com/protect___animal/"
 
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
+# [[params.social]]
+# icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
 ################################ English Language ########################
 [Languages.en]
-languageName = "En"
+languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2020 [CSGO XMUM](https://csgo.r0.is) all right reserved"
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 999
-home = "Accueil"
-copyright = "Copyright et copie; 2020 [CSGO XMUM] (https://csgo.r0.is) tous droits réservés"
 
 ################################ Chinese Language ########################
 [Languages.zh]
