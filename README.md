@@ -54,6 +54,8 @@ hugo server
 
 # Collaboration
 
+Ref to [Website Structures](https://github.com/mkapakka/Protanimal#structures)
+
 Make sure you fork this project to your Github account.
 
 Fork and PR
