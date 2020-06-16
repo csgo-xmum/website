@@ -3,9 +3,9 @@ cta:
   enable: true
   bg_image: "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp: "images/backgrounds/bg-white-wall.webp"
-  title: "Watch The Video"
-  content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title: "Pangolin Protection"
+  content: "This is a video about the protection of Pangolins, as the world's largest trading animals, it deserves our attention and protection."
   button:
     enable: true
-    label: "Start a project with us"
-    link: "#contact"
+    label: "Watch it on Youtube"
+    link: "https://www.bilibili.com/video/BV1h5411W7zz/"

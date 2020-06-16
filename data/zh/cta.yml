@@ -3,9 +3,9 @@ cta:
   enable: true
   bg_image: "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp: "images/backgrounds/bg-white-wall.webp"
-  title: "什么什么什么视频"
-  content: "给爷点开看"
+  title: "穿山甲保护"
+  content: "这是一个关于穿山甲保护的视频，作为世界上被贩卖最多的动物，它值得我们关注和保护。"
   button:
     enable: true
-    label: "点击播放"
-    link: "#contact"
+    label: "在哔哩哔哩观看"
+    link: "https://www.bilibili.com/video/BV1h5411W7zz/"

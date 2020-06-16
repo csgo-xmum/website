@@ -10,6 +10,11 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+# HTML gogogo
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 ############################# Plugins ##########################
 # css plugins
@@ -86,7 +91,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/preloader/rr.jpg"
 
 # google map
 [params.map]

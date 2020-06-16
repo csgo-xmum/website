@@ -97,3 +97,5 @@ i18(multilanguage support)
 Facebook: https://www.facebook.com/CSgroup-xmum202004-107294727657772
 
 Instagram: https://www.instagram.com/protect___animal/
+
+WeChat official account: (QR code)
