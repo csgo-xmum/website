@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://csgo.js.org"
 title = "Community Service GO | Protect Wildlife"
 theme = "meghna-hugo"
 # post pagination
