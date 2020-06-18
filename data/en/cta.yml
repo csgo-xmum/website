@@ -7,5 +7,5 @@ cta:
   content: "This is a video about the protection of Pangolins, as the world's largest trading animals, it deserves our attention and protection."
   button:
     enable: true
-    label: "Watch it on Youtube"
+    label: "Watch it on Bilibili"
     link: "https://www.bilibili.com/video/BV1h5411W7zz/"
