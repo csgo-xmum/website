@@ -1,5 +1,5 @@
 - id: blogTitle
-  translation: 最新消息
+  translation: 最新文章
 - id: readMore
   translation: 阅读更多
 - id: viewAllPost
@@ -17,9 +17,9 @@
 - id: about
   translation: 关于我们
 - id: services
-  translation: 服务
+  translation: 保护策略
 - id: portfolio
-  translation: 画廊
+  translation: 濒危物种
 - id: team
   translation: 团队
 - id: pricing
