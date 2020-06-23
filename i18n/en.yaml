@@ -17,14 +17,14 @@
 - id: about
   translation: About Us
 - id: services
-  translation: Service
+  translation: Conservation
 - id: portfolio
-  translation: Portfolio
+  translation: Species
 - id: team
   translation: Team
 - id: pricing
   translation: Pricing
 - id: blog
-  translation: Blog
+  translation: Articles
 - id: contact
   translation: Contact
