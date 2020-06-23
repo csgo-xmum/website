@@ -7,8 +7,9 @@
 				{{"<!-- section title -->" | safeHTML}}
 				<div class="title text-center wow fadeInDown">
 					<h2>{{ with i18n "blogTitle" }} {{ index (split . " ") 0 }} {{ end }}<span class="color">
-						{{ with i18n "blogTitle" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
-					<div class="border-meghna"></div>
+							{{ with i18n "blogTitle" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
+					<!-- <h2>最新<span class="color">文章</span></h2>
+					<div class="border-meghna"></div> -->
 				</div>
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
@@ -18,8 +19,7 @@
 			{{ end }}
 
 			<div class="all-post text-center col-lg-12">
-				<a class="btn btn-main"
-					href="{{ `blog` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
+				<a class="btn btn-main" href="{{ `blog` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
 			</div>
 		</div>
 	</div>
