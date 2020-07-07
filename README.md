@@ -1,6 +1,10 @@
 # Protanimal (Community Service GO)
 This is a group work repo for XMUM Community Service 2020/04.
 
+Public repo: [gh-page](https://github.com/csgo-xmum/gh-page)
+
+URL: http://csgo.js.org/
+
 - Aim: Build a website for propagation of our work.
 
 - Framework: [Hugo](https://gohugo.io)
@@ -65,7 +69,11 @@ Fork and PR
 
 # Publish
 
-Under construction
+Please go to repo [gh-page](https://github.com/csgo-xmum/gh-page)
+
+The website(static files) is published in this repo.
+
+URL: http://csgo.js.org/
 
 
 
