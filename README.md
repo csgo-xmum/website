@@ -89,6 +89,8 @@ i18(multilanguage support)
 
 ## Homepage Structure
 
+Please refer to [this issue](https://github.com/csgo-xmum/website/issues/1) for updates
+
 - About Us
   - 3 points
   - Description
