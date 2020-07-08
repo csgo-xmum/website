@@ -3,7 +3,7 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: We’re A Community Service Group.
+  title: We’re A Community Service Group
   content: "We are aim on wildlife conservation, boost public awareness."
   feature_item:
     # feature item loop
@@ -22,6 +22,6 @@ feature:
       content: We put in a rich and constructive questionnaire to collect data on what people are doing to protect wildlife.
 
       # feature item loop
-    - title: ??
+    - title: Collaboration
       icon: ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content: We ??
+      content: We join hands with other organizations<sup>2</sup> for wildlife conservation advocacy.

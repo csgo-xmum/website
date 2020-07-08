@@ -29,4 +29,6 @@
 - id: contact
   translation: Contact
 - id: IUCNCategorySource
-  translation: "The statistics are from IUCN redlist with updates on 2020-01: https://www.iucnredlist.org/search/stats"
+  translation: "Statistics from the IUCN Redlist, updated 2020-01: https://www.iucnredlist.org/search/stats"
+- id: Gapper
+  translation: "International volunteer travel organization Gapper's branch at Xiamen University Malaysia"
