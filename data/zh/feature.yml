@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
-  enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  enable: true
+  image: images/about/about-business-man.jpg
+  image_webp: images/about/about-business-man.webp
+  title: 我们是一个社区服务小组
+  content: "我们专注于保护野生动物，提高公众意识。"
+  feature_item:
+    # feature item loop
+    - title: 媒体宣传
+      icon: ti-world # themify icon pack : https://themify.me/themify-icons
+      content: 我们的宣传覆盖了Facebook、Instagram、微信公众号三大平台
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
+    - title: 视频制作
+      icon: ti-video-camera # themify icon pack : https://themify.me/themify-icons
+      content: 我们制作一些关于野生动物保护的视频来提高人们的意识
+
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title: 问卷调查
+      icon: ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content: 我们设计了丰富而有建设性的问卷调查，收集人们在保护野生动物方面的数据
+
+      # feature item loop
+    - title: 社会合作
+      icon: ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content: 我们与其他组织联手进行野生动物保护宣传

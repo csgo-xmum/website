@@ -28,3 +28,7 @@
   translation: 博客
 - id: contact
   translation: 联系我们
+- id: IUCNCategorySource
+  translation: "IUCN是国际自然保护联盟的缩写，数据来源于IUCN红色名录更新于2020-01的统计: https://www.iucnredlist.org/search/stats"
+- id: Gapper
+  translation: "国际志愿者旅行组织Gapper在厦门大学马来西亚分校的分支"
