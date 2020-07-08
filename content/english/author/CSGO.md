@@ -8,7 +8,7 @@ social:
   - icon : "ti-instagram" # themify icon pack : https://themify.me/themify-icons
     link : "https://www.instagram.com/community_service_go/"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "https://github.com/csgo-xmum"
+    link : "#"
 ---
 
 We’re A Community Service Group, we are aim on wildlife conservation, boost public awareness.
