@@ -112,7 +112,7 @@ link = "https://www.instagram.com/community_service_go/"
 
 [[params.social]]
 icon = "ti-github"
-linkj = "https://github.com/csgo-xmum"
+link = "https://github.com/csgo-xmum"
 
 # [[params.social]]
 # icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
@@ -151,4 +151,4 @@ languageCode = "zh-cn"
 contentDir = "content/chinese"
 weight = 2
 home = "主页"
-copyright = "Copyright &copy; 2020 [CSGO XMUM] (https://csgo.r0.is) all right reserved"
+copyright = "Copyright &copy; 2020 [CSGO XMUM](https://csgo.r0.is) all right reserved"
