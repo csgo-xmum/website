@@ -5,15 +5,15 @@ service:
   service_item:
     # service item loop
     - name: Do not Buy and Sell
-      icon: ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      icon: ti-money # themify icon pack : https://themify.me/themify-icons
       content: Control from source. Control the market can initially decrease the desire.
 
     # service item loop
     - name: Protect Habitat
-      icon: ti-palette # themify icon pack : https://themify.me/themify-icons
+      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
       content: Protect the area of habitats. Reducing populations to protect resources.
 
     # service item loop
     - name: Establish Nature Reserve
-      icon: ti-package # themify icon pack : https://themify.me/themify-icons
+      icon: ti-map-alt # themify icon pack : https://themify.me/themify-icons
       content: It is the most efficient way to protect wildlife and is useful to research the biodiversity.
