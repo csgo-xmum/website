@@ -4,16 +4,6 @@ service:
   title: Conservation Strategy
   service_item:
     # service item loop
-    - name: Human Being Factor
-      icon: ti-world # themify icon pack : https://themify.me/themify-icons
-      content: Wild animals have their value, like edible value, medical value, biological research value and so on. For interests and desire, hunters raise shotguns, aim at the wild animals. The extinction of dodo and sharp decrease of Tibetan antelope show obviously that how huge the influence brought by irrational hunting of human beings.
-
-    # service item loop
-    - name: Environment factor
-      icon: ti-layout # themify icon pack : https://themify.me/themify-icons
-      content: The development of factory industry and the extension of city not only destroy the habitats of wild animals but increase the temporary around the world. A large number of populations seriously affect the life of wild animals.
-
-    # service item loop
     - name: Do not Buy and Sell
       icon: ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content: Control from source. Control the market can initially decrease the desire.
@@ -21,14 +11,9 @@ service:
     # service item loop
     - name: Protect Habitat
       icon: ti-palette # themify icon pack : https://themify.me/themify-icons
-      content: Protect the area of habitats. Reducing populations to protect resources. Keep the population in K/2(K is environment capacity, the most number in the area).
+      content: Protect the area of habitats. Reducing populations to protect resources.
 
     # service item loop
-    - name: Establish the Nature Reserve
+    - name: Establish Nature Reserve
       icon: ti-package # themify icon pack : https://themify.me/themify-icons
       content: It is the most efficient way to protect wildlife and is useful to research the biodiversity.
-
-    # service item loop
-    - name: Legislation to Protect
-      icon: ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content: Perfecting and publicity the related laws can increase the sense of wild animals’ protection and publish the illegal activities.
