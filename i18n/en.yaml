@@ -28,3 +28,5 @@
   translation: Articles
 - id: contact
   translation: Contact
+- id: IUCNCategorySource
+  translation: "The statistics are from IUCN redlist with updates on 2020-01: https://www.iucnredlist.org/search/stats"
