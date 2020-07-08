@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable: true
-  title: Protect Wildlife
+  title: IUCN Category
   about_item:
     - icon: ti-alert # themify icon pack : https://themify.me/themify-icons
-      title: Endangered Species
-      content: More than 31,000 speciesare threatened with extinction. That is 27% of all assessed species.
+      title: Critically Endangered
+      content: As of 2020 January, there are 3419 animal and 7002 plant species with this assessment.
 
-    - icon: ti-cup # themify icon pack : https://themify.me/themify-icons
-      title: We're Professional
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: ti-info-alt # themify icon pack : https://themify.me/themify-icons
+      title: Endangered
+      content: More than 11,916 speciesare threatened with extinction. That is 27% of all assessed species.
 
-    - icon: ti-thought # themify icon pack : https://themify.me/themify-icons
-      title: We're Genius
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      title: Vulnerable
+      content: Likely to become endangered. There are currently 6772 animals and 14571 plants classified as vulnerable.
