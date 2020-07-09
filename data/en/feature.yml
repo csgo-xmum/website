@@ -8,7 +8,7 @@ feature:
   feature_item:
     # feature item loop
     - title: Media Publicity
-      icon: ti-world # themify icon pack : https://themify.me/themify-icons
+      icon: ti-announcement # themify icon pack : https://themify.me/themify-icons
       content: We expand publicity to Facebook, Instagram, WeChat Official Account.
 
       # feature item loop
@@ -23,5 +23,5 @@ feature:
 
       # feature item loop
     - title: Social Collaboration
-      icon: ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon: ti-world # themify icon pack : https://themify.me/themify-icons
       content: We join hands with other organizations<sup>2</sup> for wildlife conservation advocacy.

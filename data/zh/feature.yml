@@ -8,7 +8,7 @@ feature:
   feature_item:
     # feature item loop
     - title: 媒体宣传
-      icon: ti-world # themify icon pack : https://themify.me/themify-icons
+      icon: ti-announcement # themify icon pack : https://themify.me/themify-icons
       content: 我们的宣传覆盖了Facebook、Instagram、微信公众号三大平台
 
       # feature item loop
@@ -23,5 +23,5 @@ feature:
 
       # feature item loop
     - title: 社会合作
-      icon: ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon: ti-world # themify icon pack : https://themify.me/themify-icons
       content: 我们与一些社会组织<sup>2</sup>联手进行野生动物保护宣传
